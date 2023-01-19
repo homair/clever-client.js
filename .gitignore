@@ -1,5 +1,6 @@
 *.swp
 .cache
+.history
 cjs
 esm/api
 node_modules
